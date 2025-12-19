@@ -101,17 +101,17 @@ const Hero = () => {
               <div className="flex flex-wrap justify-start gap-8 sm:gap-12">
                 <div className="text-center">
                   <div className="text-3xl sm:text-4xl font-bold text-white drop-shadow-md">1000+</div>
-                  <div className="text-indigo-900 text-sm sm:text-base mt-1 font-medium">ग्राहक</div>
+                  <div className="text-white sm:text-indigo-900 text-sm sm:text-base mt-1 font-medium">ग्राहक</div>
                 </div>
                 <div className="h-12 w-px bg-white/30"></div>
                 <div className="text-center">
                   <div className="text-3xl sm:text-4xl font-bold text-white drop-shadow-md">5000+</div>
-                  <div className="text-indigo-900 text-sm sm:text-base mt-1 font-medium">आमंत्रणे</div>
+                  <div className="text-white sm:text-indigo-900 text-sm sm:text-base mt-1 font-medium">आमंत्रणे</div>
                 </div>
                 <div className="h-12 w-px bg-white/30"></div>
                 <div className="text-center">
                   <div className="text-3xl sm:text-4xl font-bold text-white drop-shadow-md">24/7</div>
-                  <div className="text-indigo-900 text-sm sm:text-base mt-1 font-medium">सपोर्ट</div>
+                  <div className="text-white sm:text-indigo-900 text-sm sm:text-base mt-1 font-medium">सपोर्ट</div>
                 </div>
               </div>
             </div>
