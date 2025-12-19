@@ -19,7 +19,7 @@ const About = () => {
           <div className="relative">
             <div className="relative w-full h-96 rounded-2xl overflow-hidden shadow-xl">
               <img
-                src="./src/assets/team.jpeg"
+                src="/images/team.jpeg"
                 alt="आमची टीम"
                 className="w-full h-full object-cover"
               />
