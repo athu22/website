@@ -48,7 +48,7 @@ const AppLayout = () => {
             <Route path="/services" element={<Services />} />
             <Route path="/contact" element={<Contact />} />
           </Routes>
-          {/* <Alert /> */}
+          <Alert />
         </div>
       </main>
       <Footer />
