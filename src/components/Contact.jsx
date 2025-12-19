@@ -59,7 +59,7 @@ const Contact = () => {
     {
       icon: <FaMapMarkerAlt className="text-2xl text-indigo-600" />,
       title: "आमचे ठिकाण",
-      details: "123, आमंत्रण नगर, पुणे, महाराष्ट्र 411001"
+      details: "Shop no 30. Ghate complex. Chalisgaon. Dist. Jalgaon"
     },
     {
       icon: <FaPhoneAlt className="text-2xl text-pink-500" />,

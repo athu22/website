@@ -21,9 +21,9 @@ const Footer = () => {
   ];
 
   const contactInfo = [
-    { icon: <FaMapMarkerAlt />, text: "123, आमंत्रण नगर, पुणे, महाराष्ट्र 411001" },
-    { icon: <FaPhone />, text: "+91 98765 43210" },
-    { icon: <FaEnvelope />, text: "info@aamantranji.com" }
+    { icon: <FaMapMarkerAlt />, text: "Shop no 30. Ghate complex. Chalisgaon. Dist. Jalgaon" },
+    { icon: <FaPhone />, text: "+91 99755 95925" },
+    { icon: <FaEnvelope />, text: "aamantrang@gmail.com" }
   ];
 
   const socialLinks = [
